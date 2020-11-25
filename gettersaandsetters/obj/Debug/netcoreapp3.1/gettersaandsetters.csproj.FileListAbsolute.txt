@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\gettersaandsetters\gettersaandsetters\bin\Debug\netcoreapp3.1\gettersaandsetters.exe
+C:\Users\opilane\source\repos\gettersaandsetters\gettersaandsetters\bin\Debug\netcoreapp3.1\gettersaandsetters.deps.json
+C:\Users\opilane\source\repos\gettersaandsetters\gettersaandsetters\bin\Debug\netcoreapp3.1\gettersaandsetters.runtimeconfig.json
+C:\Users\opilane\source\repos\gettersaandsetters\gettersaandsetters\bin\Debug\netcoreapp3.1\gettersaandsetters.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\gettersaandsetters\gettersaandsetters\bin\Debug\netcoreapp3.1\gettersaandsetters.dll
+C:\Users\opilane\source\repos\gettersaandsetters\gettersaandsetters\bin\Debug\netcoreapp3.1\gettersaandsetters.pdb
+C:\Users\opilane\source\repos\gettersaandsetters\gettersaandsetters\obj\Debug\netcoreapp3.1\gettersaandsetters.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\gettersaandsetters\gettersaandsetters\obj\Debug\netcoreapp3.1\gettersaandsetters.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\gettersaandsetters\gettersaandsetters\obj\Debug\netcoreapp3.1\gettersaandsetters.AssemblyInfo.cs
+C:\Users\opilane\source\repos\gettersaandsetters\gettersaandsetters\obj\Debug\netcoreapp3.1\gettersaandsetters.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\gettersaandsetters\gettersaandsetters\obj\Debug\netcoreapp3.1\gettersaandsetters.dll
+C:\Users\opilane\source\repos\gettersaandsetters\gettersaandsetters\obj\Debug\netcoreapp3.1\gettersaandsetters.pdb
+C:\Users\opilane\source\repos\gettersaandsetters\gettersaandsetters\obj\Debug\netcoreapp3.1\gettersaandsetters.genruntimeconfig.cache
